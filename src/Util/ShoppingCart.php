@@ -40,6 +40,4 @@ class ShoppingCart implements PriceInterface
     {
         return $this->products;
     }
-
-
 }
