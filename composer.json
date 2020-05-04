@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Util\\": "src/Util/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "7"
+  }
+}
