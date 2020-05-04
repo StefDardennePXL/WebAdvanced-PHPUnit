@@ -32,6 +32,10 @@ class ComposerStaticInit7bc895f8564161b2b0af0fe2dba7bf57
         array (
             'Prophecy\\' => 9,
         ),
+        'I' => 
+        array (
+            'Interfaces\\' => 11,
+        ),
         'D' => 
         array (
             'Doctrine\\Instantiator\\' => 22,
@@ -61,6 +65,10 @@ class ComposerStaticInit7bc895f8564161b2b0af0fe2dba7bf57
         'Prophecy\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpspec/prophecy/src/Prophecy',
+        ),
+        'Interfaces\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/Interfaces',
         ),
         'Doctrine\\Instantiator\\' => 
         array (

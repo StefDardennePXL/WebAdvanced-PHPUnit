@@ -1,7 +1,8 @@
 {
   "autoload": {
     "psr-4": {
-      "Util\\": "src/Util/"
+      "Util\\": "src/Util/",
+      "Interfaces\\": "src/Interfaces"
     }
   },
   "require-dev": {
